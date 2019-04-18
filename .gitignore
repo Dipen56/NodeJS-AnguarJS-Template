@@ -1,0 +1,7 @@
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+npm-debug.log*
+node_modules/
